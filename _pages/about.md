@@ -204,7 +204,7 @@ My academic interests revolve around AI4Industry, especially focus on **Industri
 - [CSDN Teacher](https://edu.csdn.net/lecturer/4129/course)
 
 # 🗺️ Visitor Map
-<script href="https://info.flagcounter.com/RBG7"><img src="https://s01.flagcounter.com/map/RBG7/size_s/txt_000000/border_CCCCCC/pageviews_1/viewers_0/flags_0/" alt="Flag Counter" border="0"> </script>
+<img src="https://s01.flagcounter.com/map/RBG7/size_s/txt_000000/border_CCCCCC/pageviews_1/viewers_0/flags_0/" alt="Flag Counter" border="0">
 
 <!-- 
 ---
