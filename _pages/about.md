@@ -95,6 +95,7 @@ My academic interests revolve around AI4Industry, especially focus on **Industri
     Fine-Grained Region Perception Network for Few-shot Defect Classification of Ic Package Substrates: Benchmark lethodology and Dataset <a href="">[Paper]</a> <br>
     Haoyuan Li, Ruiyun Yu*, <span style="color:#b02418; font-weight:bold;">Bingyang Guo</span>  <br>
     <i>The Annual Conference of the IEEE Industrial Electrics Society<strong>(IECON).</strong></i>
+  </li>
  <li id="C-Pub2">
     Anomaly Detection of Integrated Circuits Package Substrates Using the Large Vision Model SAIC: Dataset Construction, Methodology, and Application <a href="">[Paper]</a> <br>
     <span style="color:#b02418; font-weight:bold;">Bingyang Guo</span>, Ruiyun Yu*, Haoyuan Li <br>
@@ -203,7 +204,7 @@ My academic interests revolve around AI4Industry, especially focus on **Industri
 - [CSDN Teacher](https://edu.csdn.net/lecturer/4129/course)
 
 # 🗺️ Visitor Map
-<a href="https://info.flagcounter.com/RBG7"><img src="https://s01.flagcounter.com/map/RBG7/size_s/txt_000000/border_CCCCCC/pageviews_1/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
+<script href="https://info.flagcounter.com/RBG7"><img src="https://s01.flagcounter.com/map/RBG7/size_s/txt_000000/border_CCCCCC/pageviews_1/viewers_0/flags_0/" alt="Flag Counter" border="0"> </script>
 
 <!-- 
 ---
