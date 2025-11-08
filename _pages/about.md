@@ -150,8 +150,8 @@ My academic interests revolve around AI4Industry, especially focus on **Industri
             <img src="images/AOI2.png" alt="AOI Equipment" class="uniform-height">
         </div>
         <ol class="itemize">
-            <li>constructed a AOI equipment for ceramic package substrate surface.</li>
-            <li>collected a comprehensive dataset of high-resolution images for ceramic package substrate surface inspection.</li>
+            <li>constructed a AOI equipment for ceramic package substrate final product.</li>
+            <li>collected a comprehensive dataset of multi-view images for ceramic package substrate surface inspection.</li>
         </ol>
     </li>
     <li class="project clearfix">
@@ -161,7 +161,7 @@ My academic interests revolve around AI4Industry, especially focus on **Industri
             <img src="images/AOI1.png" alt="AOI Equipment" class="uniform-height">
         </div>
         <ol class="itemize">
-            <li>constructed a AOI equipment for ceramic package substrate surface.</li>
+            <li>constructed a AOI equipment for printing process.</li>
             <li>collected a comprehensive dataset of high-resolution images for ceramic package substrate surface inspection.</li>
         </ol>
     </li>
