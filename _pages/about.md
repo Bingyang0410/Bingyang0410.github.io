@@ -97,7 +97,7 @@ My academic interests revolve around AI4Industry, especially focus on **Industri
  <li id="C-Pub4">
     Point Cloud Segmentation of Integrated Circuits Package Substrates Surface Defects Using Causal Inference: Dataset Construction and Methodology <a href="">[Paper]</a> <br>
     <span style="color:#b02418; font-weight:bold;">Bingyang Guo</span> ，Hongjie Li, Ruiyun Yu* <br>
-    <i>The Annual Conference of the IEEE Industrial Electrics Society<strong>(IECON).</strong></i>
+    <i>The 40th Annual AAAI Conference on Artificial Intelligence<strong>(AAAI).</strong></i>
   </li>
  <li id="C-Pub3">
     Fine-Grained Region Perception Network for Few-shot Defect Classification of Ic Package Substrates: Benchmark lethodology and Dataset <a href="">[Paper]</a> <br>
