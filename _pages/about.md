@@ -28,8 +28,11 @@ I am pursuing my PhD degree in the Software College at the [Northeastern Univers
 My academic interests revolve around AI4Industry, especially focus on **Industrial Surface Defect Segmentation under Data-scarcity Scenarios**, including Zero/Few-shot segmentation, Wealy-supervised segmentation, 2D-3D visual fusion, and Large Vision Model. If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at - wxqmdr@gmail.com
 
 # 🔥 News
+- *2025.11*: &nbsp;🎉🎉 Our paper addressed Integrated circuits package substrate 3D segmentation is accepted by AAAI 2026! The new dataset [CPS3D-Seg](https://github.com/Bingyang0410/CPS3D-Seg) proposed in the paper is the first 3D defect detection dataset of integrated circuit!
+- *2025.09*: &nbsp;🎉🎉 Our achievement [high precision visual inspection technology and application of ceramic package substrate](http://www.cainet.org.cn/xwzx/xhdt/art/2025/art_7c3cfa18f06f428f8c560b9dea833a25.html) won the gold award of the 11th International Invention Exhibition!
+- *2025.08*: &nbsp;🎉🎉 Our dataset CPS2D-AD is selected into the first batch of [high-quality dataset cases](https://mp.weixin.qq.com/s/aMUeV_bZgoxM9Vd877vW-g) of the national data administration!
 - *2025.07*: &nbsp;🎉🎉 Our paper addressed Integrated circuits package substrate few-shot classification is accepted by IECON 2025!
-- *2025.06*: &nbsp;🎉🎉 Our paper addressed [Integrated circuits package substrate anomaly detection](https://neunews.neu.edu.cn/info/1341/951471.htm) is accepted by ICCV 2025! The new dataset CPS2D-AD proposed in the paper is currently the largest integrated circuit defect detection dataset in the world!
+- *2025.06*: &nbsp;🎉🎉 Our paper addressed [Integrated circuits package substrate anomaly detection](https://openaccess.thecvf.com/content/ICCV2025/html/Yu_Anomaly_Detection_of_Integrated_Circuits_Package_Substrates_Using_the_Large_ICCV_2025_paper.html) is accepted by ICCV 2025! The new dataset CPS2D-AD proposed in the paper is currently the largest integrated circuit defect detection dataset in the world!
 - *2025.03*: &nbsp;🎉🎉 Our paper addressed [Few-shot metal surface segmenation](https://ieeexplore.ieee.org/abstract/document/10898041) is accepted by IEEE TIM!
 - *2024.09*: &nbsp;🎉🎉 We acquire the funding from the key research and development projects of Liaoning Province (**Research and Application of Key Technologies for Multi-modal Industrial Product Surface Defect Detection Large Model**)!
 - *2024.04*: &nbsp;🎉🎉 Our paper addressed [Transferable recommendation]([https://ieeexplore.ieee.org/abstract/document/10018467/](https://ieeexplore.ieee.org/abstract/document/10491370/)) is accepted by IEEE TKDE (CCF A)!
@@ -91,14 +94,19 @@ My academic interests revolve around AI4Industry, especially focus on **Industri
 
 <h2 id="Conference Publications" style="color: #2c4a88; padding-top: 60px; margin-top: -60px;">Conference Publications</h2>
 <ol reversed>
+ <li id="C-Pub4">
+    Point Cloud Segmentation of Integrated Circuits Package Substrates Surface Defects Using Causal Inference: Dataset Construction and Methodology <a href="">[Paper]</a> <br>
+    <span style="color:#b02418; font-weight:bold;">Bingyang Guo</span> ，Hongjie Li, Ruiyun Yu* <br>
+    <i>The Annual Conference of the IEEE Industrial Electrics Society<strong>(IECON).</strong></i>
+  </li>
  <li id="C-Pub3">
     Fine-Grained Region Perception Network for Few-shot Defect Classification of Ic Package Substrates: Benchmark lethodology and Dataset <a href="">[Paper]</a> <br>
     Haoyuan Li, Ruiyun Yu*, <span style="color:#b02418; font-weight:bold;">Bingyang Guo</span>  <br>
     <i>The Annual Conference of the IEEE Industrial Electrics Society<strong>(IECON).</strong></i>
   </li>
  <li id="C-Pub2">
-    Anomaly Detection of Integrated Circuits Package Substrates Using the Large Vision Model SAIC: Dataset Construction, Methodology, and Application <a href="">[Paper]</a> <br>
-    <span style="color:#b02418; font-weight:bold;">Bingyang Guo</span>, Ruiyun Yu*, Haoyuan Li <br>
+    Anomaly Detection of Integrated Circuits Package Substrates Using the Large Vision Model SAIC: Dataset Construction, Methodology, and Application <a href="https://openaccess.thecvf.com/content/ICCV2025/html/Yu_Anomaly_Detection_of_Integrated_Circuits_Package_Substrates_Using_the_Large_ICCV_2025_paper.html">[Paper]</a> <br>
+    Ruiyun Yu, <span style="color:#b02418; font-weight:bold;">Bingyang Guo*</span>, Haoyuan Li <br>
     <i>International Conference on Computer Vision<strong>(ICCV).</strong></i>
   </li>
   <li id="C-Pub1">
@@ -111,14 +119,14 @@ My academic interests revolve around AI4Industry, especially focus on **Industri
 <h2 id="Manuscripts under Review" style="color: #2c4a88; padding-top: 60px; margin-top: -60px;">Manuscripts under Review</h2>
 <ol reversed>
   <li id="U-Pub4">
-    EDNet: Zero-shot Classification for Ceramic Package Substrates Surface Defect with Embedding Diffusion Network <br>
-    <span style="color:#b02418; font-weight:bold;">Bingyang Guo</span>, Ruiyun Yu*, Haoyuan Li, Bang An <br>
-    <i>Neurocomputing<strong>(Neurocomputing).</strong></i> (Under Review)
+    IEC3D-AD: A 3D Dataset of Industrial Equipment Components for Unsupervised Point Cloud Anomaly Detection <br>
+    <span style="color:#b02418; font-weight:bold;">Bingyang Guo</span>, Hongjie Li, Ruiyun Yu*<br>
+    <i>IEEE Transactions on Circuits and Systems for Video Technology<strong>(TCSVT).</strong></i> (Under Review)
   </li>
   <li id="U-Pub3">
     When Large Models Meet Integrated Circuit: A Unified Multimodal Framework for Semantic and Spatial Understanding on Ceramic Package Substrate Surface Defects <br>
     <span style="color:#b02418; font-weight:bold;">Bingyang Guo</span>, Ruiyun Yu*, Haoyuan Li, Bang An <br>
-    <i>IEEE/ASME Transactions on Mechatronics<strong>(T-Mech).</strong></i> (Under Review)
+    <i>Pattern Recognition<strong>(PR).</strong></i> (Under Review)
   </li>
   <li id="U-Pub2">
     Hybrid-space Interaction Network for Effective Single-Image Super-Resolution in Defect Detection <br>
@@ -136,10 +144,21 @@ My academic interests revolve around AI4Industry, especially focus on **Industri
 
 <ol class="projects-list">
     <li class="project clearfix">
-        <span class="project-title">Ceramic Package Substrate Surface Defect Auto Optical Inspection (AOI) Equipment</span>
+        <span class="project-title">Auto Optical Inspection (AOI) Equipment for Final Product of Ceramic Package Substrate</span>
+        <span class="project-date">(2025.09 - Now)</span> <br>
+        <div class="image-container">
+            <img src="images/AOI2.png" alt="AOI Equipment" class="uniform-height">
+        </div>
+        <ol class="itemize">
+            <li>constructed a AOI equipment for ceramic package substrate surface.</li>
+            <li>collected a comprehensive dataset of high-resolution images for ceramic package substrate surface inspection.</li>
+        </ol>
+    </li>
+    <li class="project clearfix">
+        <span class="project-title">Auto Optical Inspection (AOI) Equipment for Printing Process of Ceramic Package Substrate</span>
         <span class="project-date">(2024.07 - Now)</span> <br>
         <div class="image-container">
-            <img src="images/AOI.png" alt="AOI Equipment" class="uniform-height">
+            <img src="images/AOI1.png" alt="AOI Equipment" class="uniform-height">
         </div>
         <ol class="itemize">
             <li>constructed a AOI equipment for ceramic package substrate surface.</li>
@@ -206,7 +225,7 @@ My academic interests revolve around AI4Industry, especially focus on **Industri
 # 🗺️ Visitor Map
 <img src="https://s01.flagcounter.com/map/RBG7/size_s/txt_000000/border_CCCCCC/pageviews_1/viewers_0/flags_0/" alt="Flag Counter" border="0">
 
-<!-- 
+<!--
 ---
 permalink: /
 title: ""
