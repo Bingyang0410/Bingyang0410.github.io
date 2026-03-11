@@ -28,6 +28,7 @@ I am pursuing my PhD degree in the Software College at the [Northeastern Univers
 My academic interests revolve around AI4Industry, especially focus on **Industrial Surface Defect Segmentation under Data-scarcity Scenarios**, including Zero/Few-shot segmentation, Wealy-supervised segmentation, 2D-3D visual fusion, and Large Vision Model. If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at - wxqmdr@gmail.com
 
 # 🔥 News
+- *2026.03*: &nbsp;🎉🎉 I was invited to serve as a guest editor for a [special issue](https://www.mdpi.com/journal/electronics/special_issues/77NQH8T4Y0) of Electronics! We welcome contributions from experts and scholars!
 - *2026.02*: &nbsp;🎉🎉 Our paper addressed super resolution in industrial detection is accepted by IEEE/ASME Transactions on Mechatronics!
 - *2025.12*: &nbsp;🎉🎉 Our [paper](https://arxiv.org/pdf/2511.13115v2) addressed 3D-AD is accepted by Pattern Recognition!
 - *2025.11*: &nbsp;🎉🎉 Our paper addressed Integrated circuits package substrate 3D segmentation is accepted by AAAI 2026! The new dataset [CPS3D-Seg](https://github.com/Bingyang0410/CPS3D-Seg) proposed in the paper is the first 3D defect detection dataset of integrated circuit!
