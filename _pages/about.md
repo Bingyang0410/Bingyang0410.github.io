@@ -28,6 +28,7 @@ I am pursuing my PhD degree in the Software College at the [Northeastern Univers
 My academic interests revolve around AI4Industry, especially focus on **Industrial Surface Defect Segmentation under Data-scarcity Scenarios**, including Zero/Few-shot segmentation, Wealy-supervised segmentation, 2D-3D visual fusion, and Large Vision Model. If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at - wxqmdr@gmail.com
 
 # 🔥 News
+- *2026.02*: &nbsp;🎉🎉 Our paper addressed super resolution in industrial detection is accepted by IEEE/ASME Transactions on Mechatronics!
 - *2025.12*: &nbsp;🎉🎉 Our [paper](https://arxiv.org/pdf/2511.13115v2) addressed 3D-AD is accepted by Pattern Recognition!
 - *2025.11*: &nbsp;🎉🎉 Our paper addressed Integrated circuits package substrate 3D segmentation is accepted by AAAI 2026! The new dataset [CPS3D-Seg](https://github.com/Bingyang0410/CPS3D-Seg) proposed in the paper is the first 3D defect detection dataset of integrated circuit!
 - *2025.09*: &nbsp;🎉🎉 Our achievement [high precision visual inspection technology and application of ceramic package substrate](http://www.cainet.org.cn/xwzx/xhdt/art/2025/art_7c3cfa18f06f428f8c560b9dea833a25.html) won the gold award of the 11th International Invention Exhibition!
@@ -56,12 +57,17 @@ My academic interests revolve around AI4Industry, especially focus on **Industri
 
 <h2 id="Journal Publications" style="color: #2c4a88; padding-top: 60px; margin-top: -60px;">Journal Publications</h2>
 <ol reversed>
+  <li id="J-Pub9">
+    Hybrid-space Interaction Network for Effective Single-Image Super-Resolution in Defect Detection <br>
+    Haoyuan Li, Ruiyun Yu*, <span style="color:#b02418; font-weight:bold;">Bingyang Guo</span>, Bang An, Shi Zhen <br>
+    <i>IEEE/ASME Transactions on Mechatronics<strong>(T-Mech).</strong></i> 2026.
+  </li>
   <li id="J-Pub8">
     A Lightweight 3D Anomaly Detection Method with Rotationally Invariant Features <a href="https://arxiv.org/pdf/2511.13115v2">[Paper]</a> <br>
     Hanzhe Liang, Jie Zhou, Can Gao*, <span style="color:#b02418; font-weight:bold;">Bingyang Guo</span>, Jinbao Wang, and Linlin Shen <br>
     <i>Pattern Recognition<strong>(PR).</strong></i> 2025.
   </li>
-  <li id="J-Pub8">
+  <li id="J-Pub7">
     Background-weaken Generalization Network for Few-Shot Industrial Metal Defect Segmentation <a href="https://ieeexplore.ieee.org/abstract/document/10898041">[Paper]</a> <br>
     Ruiyun Yu, Haoyuan Li*, <span style="color:#b02418; font-weight:bold;">Bingyang Guo</span>, Ziming Zhao <br>
     <i>IEEE Transactions on Instrumentation and Measurement<strong>(TIM).</strong></i> 2025.
@@ -125,24 +131,24 @@ My academic interests revolve around AI4Industry, especially focus on **Industri
 <h2 id="Manuscripts under Review" style="color: #2c4a88; padding-top: 60px; margin-top: -60px;">Manuscripts under Review</h2>
 <ol reversed>
   <li id="U-Pub5">
+    3D anomaly detection: A survey <br>
+    Hanzhe Liang, Bingyang Guo, Yawen Huang, Jiayi Lyu, Can Gao, Yunkang Cao, Jinbao Wang, Rruiyun Yu, Linlin Shen, Pan Li<br>
+    <i>IEEE Transactions on Pattern Analysis and Machine Intelligence<strong>(PAMI).</strong></i> (Under Review)
+  </li>
+  <li id="U-Pub4">
     EDNet: Zero-shot Classification for Ceramic Package Substrates Surface Defect with Embedding Diffusion Network <br>
     <span style="color:#b02418; font-weight:bold;">Bingyang Guo</span>, Yuting Wang, Ruiyun Yu*<br>
-    <i>Pattern Recognition<strong>(PR).</strong></i> (Under Review)
+    <i>Pattern Recognition<strong>(PR).</strong></i> (Major Revision)
   </li>
-  <li id="U-Pub5">
+  <li id="U-Pub3">
     IEC3D-AD: A 3D Dataset of Industrial Equipment Components for Unsupervised Point Cloud Anomaly Detection <br>
     <span style="color:#b02418; font-weight:bold;">Bingyang Guo</span>, Hongjie Li, Ruiyun Yu*<br>
     <i>IEEE Transactions on Circuits and Systems for Video Technology<strong>(TCSVT).</strong></i> (Under Review)
   </li>
-  <li id="U-Pub3">
+  <li id="U-Pub2">
     When Large Models Meet Integrated Circuit: A Unified Multimodal Framework for Semantic and Spatial Understanding on Ceramic Package Substrate Surface Defects <br>
     <span style="color:#b02418; font-weight:bold;">Bingyang Guo</span>, Ruiyun Yu*, Haoyuan Li, Bang An <br>
     <i>Pattern Recognition<strong>(PR).</strong></i> (Under Review)
-  </li>
-  <li id="U-Pub2">
-    Hybrid-space Interaction Network for Effective Single-Image Super-Resolution in Defect Detection <br>
-    Haoyuan Li, Ruiyun Yu*, <span style="color:#b02418; font-weight:bold;">Bingyang Guo</span>, Bang An, Shi Zhen <br>
-    <i>IEEE/ASME Transactions on Mechatronics<strong>(T-Mech).</strong></i> (Reject & Resubmit)
   </li>
   <li id="U-Pub1">
     Dynamic Cross Characterization Network for Few-Shot IC Package Substrates Surface Defect Segmentation <br>
