@@ -23,11 +23,15 @@ Hello, everyone! Here is **Bingyang Guo (Aries, 郭冰洋)**'s academic page. Th
 
 # 🧍‍♂️ Biography
 
-I am pursuing my PhD degree in the Software College at the [Northeastern University](https://www.neu.edu.cn/) (Shenyang, China), advised by [Prof. Ruiyun Yu](http://faculty.neu.edu.cn/yury/). I received the bachelor's degree in the School of Mechanical Engineering at the [Shenyang Ligong University](https://www.sylu.edu.cn/), and the master's degree in the School of Mechanical Engineering and Automation at the [Northeastern University](https://www.neu.edu.cn/), advised by [Prof. Yunhui Yan](http://team.neu.edu.cn/MVR/zh_CN/more/263427/tdld/index.htm) and [Prof. Kechen Song](http://faculty.neu.edu.cn/songkechen/zh_CN/index.htm), within [Machine Vision & Robotics Lab](http://team.neu.edu.cn/MVR).
+I received the doctoral degree in the Software College at the [Northeastern University](https://www.neu.edu.cn/) (Shenyang, China), advised by [Prof. Ruiyun Yu](http://faculty.neu.edu.cn/yury/). I received the bachelor's degree in the School of Mechanical Engineering at the [Shenyang Ligong University](https://www.sylu.edu.cn/), and the master's degree in the School of Mechanical Engineering and Automation at the [Northeastern University](https://www.neu.edu.cn/), advised by [Prof. Yunhui Yan](http://team.neu.edu.cn/MVR/zh_CN/more/263427/tdld/index.htm) and [Prof. Kechen Song](http://faculty.neu.edu.cn/songkechen/zh_CN/index.htm), within [Machine Vision & Robotics Lab](http://team.neu.edu.cn/MVR).
 
 My academic interests revolve around AI4Industry, especially focus on **Industrial Surface Defect Segmentation under Data-scarcity Scenarios**, including Zero/Few-shot segmentation, Wealy-supervised segmentation, 2D-3D visual fusion, and Large Vision Model. If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at - wxqmdr@gmail.com
 
 # 🔥 News
+- *2025.05*: &nbsp;🎉🎉 Our paper addressed zero-shot classification in IC filed is accepted by Pattern Recognition!
+- *2025.04*: &nbsp;🎉🎉 Our paper addressed few-shot segmentation in IC filed is accepted by IEEE Transactions on Industrial Informatics!
+- *2025.03*: &nbsp;🎉🎉 I was invited to serve as a guest editor for a special issue of Electronics! We welcome contributions from experts and scholars!
+- *2025.02*: &nbsp;🎉🎉 Our paper addressed super resolution in industrial detection is accepted by IEEE/ASME Transactions on Mechatronics!
 - *2025.12*: &nbsp;🎉🎉 Our [paper](https://arxiv.org/pdf/2511.13115v2) addressed 3D-AD is accepted by Pattern Recognition!
 - *2025.11*: &nbsp;🎉🎉 Our paper addressed Integrated circuits package substrate 3D segmentation is accepted by AAAI 2026! The new dataset [CPS3D-Seg](https://github.com/Bingyang0410/CPS3D-Seg) proposed in the paper is the first 3D defect detection dataset of integrated circuit!
 - *2025.09*: &nbsp;🎉🎉 Our achievement [high precision visual inspection technology and application of ceramic package substrate](http://www.cainet.org.cn/xwzx/xhdt/art/2025/art_7c3cfa18f06f428f8c560b9dea833a25.html) won the gold award of the 11th International Invention Exhibition!
@@ -56,6 +60,21 @@ My academic interests revolve around AI4Industry, especially focus on **Industri
 
 <h2 id="Journal Publications" style="color: #2c4a88; padding-top: 60px; margin-top: -60px;">Journal Publications</h2>
 <ol reversed>
+  <li id="U-Pub5">
+    EDNet: Zero-shot Classification for Ceramic Package Substrates Surface Defect with Embedding Diffusion Network <br>
+    <span style="color:#b02418; font-weight:bold;">Bingyang Guo</span>, Yuting Wang, Ruiyun Yu*<br>
+    <i>Pattern Recognition<strong>(PR).</strong></i>
+  </li>
+  <li id="U-Pub10">
+    Hybrid-space Interaction Network for Effective Single-Image Super-Resolution in Defect Detection <br>
+    Haoyuan Li, Ruiyun Yu*, <span style="color:#b02418; font-weight:bold;">Bingyang Guo</span>, Bang An, Shi Zhen <br>
+    <i>IEEE/ASME Transactions on Mechatronics<strong>(T-Mech).</strong></i>
+  </li>
+  <li id="U-Pub9">
+    Dynamic Cross Characterization Network for Few-Shot IC Package Substrates Surface Defect Segmentation <br>
+    Ruiyun Yu, Haoyuan Li*, <span style="color:#b02418; font-weight:bold;">Bingyang Guo</span> <br>
+    <i>IEEE Transactions on Industrial Informatics<strong>(TII).</strong></i>
+  </li>
   <li id="J-Pub8">
     A Lightweight 3D Anomaly Detection Method with Rotationally Invariant Features <a href="https://arxiv.org/pdf/2511.13115v2">[Paper]</a> <br>
     Hanzhe Liang, Jie Zhou, Can Gao*, <span style="color:#b02418; font-weight:bold;">Bingyang Guo</span>, Jinbao Wang, and Linlin Shen <br>
@@ -125,29 +144,14 @@ My academic interests revolve around AI4Industry, especially focus on **Industri
 <h2 id="Manuscripts under Review" style="color: #2c4a88; padding-top: 60px; margin-top: -60px;">Manuscripts under Review</h2>
 <ol reversed>
   <li id="U-Pub5">
-    EDNet: Zero-shot Classification for Ceramic Package Substrates Surface Defect with Embedding Diffusion Network <br>
-    <span style="color:#b02418; font-weight:bold;">Bingyang Guo</span>, Yuting Wang, Ruiyun Yu*<br>
-    <i>Pattern Recognition<strong>(PR).</strong></i> (Under Review)
-  </li>
-  <li id="U-Pub5">
     IEC3D-AD: A 3D Dataset of Industrial Equipment Components for Unsupervised Point Cloud Anomaly Detection <br>
     <span style="color:#b02418; font-weight:bold;">Bingyang Guo</span>, Hongjie Li, Ruiyun Yu*<br>
-    <i>IEEE Transactions on Circuits and Systems for Video Technology<strong>(TCSVT).</strong></i> (Under Review)
+    <i>IEEE Transactions on Circuits and Systems for Video Technology<strong>(TCSVT).</strong></i> (Major Revision)
   </li>
   <li id="U-Pub3">
     When Large Models Meet Integrated Circuit: A Unified Multimodal Framework for Semantic and Spatial Understanding on Ceramic Package Substrate Surface Defects <br>
     <span style="color:#b02418; font-weight:bold;">Bingyang Guo</span>, Ruiyun Yu*, Haoyuan Li, Bang An <br>
     <i>Pattern Recognition<strong>(PR).</strong></i> (Under Review)
-  </li>
-  <li id="U-Pub2">
-    Hybrid-space Interaction Network for Effective Single-Image Super-Resolution in Defect Detection <br>
-    Haoyuan Li, Ruiyun Yu*, <span style="color:#b02418; font-weight:bold;">Bingyang Guo</span>, Bang An, Shi Zhen <br>
-    <i>IEEE/ASME Transactions on Mechatronics<strong>(T-Mech).</strong></i> (Reject & Resubmit)
-  </li>
-  <li id="U-Pub1">
-    Dynamic Cross Characterization Network for Few-Shot IC Package Substrates Surface Defect Segmentation <br>
-    Ruiyun Yu, Haoyuan Li*, <span style="color:#b02418; font-weight:bold;">Bingyang Guo</span> <br>
-    <i>IEEE Transactions on Industrial Informatics<strong>(TII).</strong></i> (Reject & Resubmit)
   </li>
 </ol>
 
@@ -214,18 +218,14 @@ My academic interests revolve around AI4Industry, especially focus on **Industri
 
 
 # 🎓 Academic Service
+- *Journal Editor*, Electronics - Intelligent Sensing Empowered by Artificial Intelligence, Guest Editor.
 - *Journal Reviewer*, IEEE TIP, IEEE TNNLS, IEEE TII, IEEE TIM, etc.
 - *Conference Reviewer*, CVPR, ACM MM, NeurIPS, etc.
 
 # 🎖 Honors and Awards
-- First-class Scholarship for PhD, NEU, 2022.09, 2023.09, 2024.09
-- Excellent Paper of Liaoning Computer Federation, 2022.12
-- Outstanding Graduate of Northeastern University, 2021.07
-- Yantai Guoye Scholarship, NEU, 2020.09
-- First-class Scholarship, NEU, 2018.09, 2019.09, 2020.09
-- Outstanding graduates from Liaoning Province, 2018.07
-- First-class Scholarship, SYLU, 2016.09, 2017.09
-- Second-class Scholarship, SYLU,2015.09
+- NortheasternUniversity President's Medal (only 10 students selected each year)
+- First Prize of the China Invention Association Invention and Entrepreneurship Award
+- Gold Award at the 11th International Invention Exhibition
 
 # 🎈 Generalist
 - [Intern of Qsinghua LAMIC](http://115.28.22.69/index.php)
