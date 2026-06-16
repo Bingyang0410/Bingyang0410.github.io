@@ -119,3 +119,152 @@ h1:before, .anchor:before {
     height: 190px; /* 图像高度，根据需要调整 */
     width: auto; /* 确保宽高比不变 */
 }
+
+.pub-section-heading {
+    color: #2c4a88;
+    padding-top: 60px;
+    margin-top: -60px;
+    margin-bottom: .75rem;
+}
+
+.publication-list {
+    display: grid;
+    gap: .85rem;
+    margin-bottom: 1.75rem;
+}
+
+.publication-item {
+    border: 1px solid #e5e8ef;
+    border-left: 4px solid #2c4a88;
+    border-radius: 6px;
+    padding: .9rem 1rem;
+    background: #fff;
+    box-shadow: 0 2px 10px rgba(32, 45, 74, .05);
+}
+
+.publication-item h3 {
+    margin: 0 0 .45rem;
+    font-size: 1rem;
+    line-height: 1.4;
+    color: #1f2937;
+}
+
+.publication-item p {
+    margin: .25rem 0;
+}
+
+.pub-authors {
+    color: #4b5563;
+    font-size: .93rem;
+}
+
+.pub-venue {
+    color: #374151;
+    font-size: .93rem;
+}
+
+.author-highlight,
+.author-mark {
+    color: #b02418;
+    font-weight: 700;
+}
+
+.pub-links {
+    display: flex;
+    flex-wrap: wrap;
+    gap: .4rem;
+    margin-top: .45rem !important;
+}
+
+.pub-badge {
+    display: inline-flex;
+    align-items: center;
+    border: 1px solid #2c4a88;
+    border-radius: 999px;
+    padding: .12rem .55rem;
+    color: #2c4a88;
+    font-size: .78rem;
+    font-weight: 700;
+    line-height: 1.5;
+    text-decoration: none;
+}
+
+.pub-badge:hover {
+    color: #fff;
+    background: #2c4a88;
+    text-decoration: none;
+}
+
+.pub-badge--muted {
+    border-color: #cbd5e1;
+    color: #64748b;
+    background: #f8fafc;
+}
+
+.projects-list {
+    display: grid;
+    gap: 1rem;
+    margin: 1rem 0 2rem;
+}
+
+.project-card {
+    display: grid;
+    grid-template-columns: minmax(180px, 34%) 1fr;
+    gap: 1rem;
+    align-items: stretch;
+    border: 1px solid #e5e8ef;
+    border-radius: 8px;
+    overflow: hidden;
+    background: #fff;
+    box-shadow: 0 2px 12px rgba(32, 45, 74, .06);
+}
+
+.project-card img {
+    width: 100%;
+    height: 100%;
+    min-height: 180px;
+    object-fit: cover;
+    background: #f3f4f6;
+}
+
+.project-card__body {
+    padding: .95rem 1rem .95rem 0;
+}
+
+.project-card__meta {
+    color: #2c4a88;
+    font-size: .78rem;
+    font-weight: 700;
+    letter-spacing: .02em;
+    text-transform: uppercase;
+}
+
+.project-card h3 {
+    margin: .25rem 0 .55rem;
+    font-size: 1rem;
+    line-height: 1.35;
+    color: #1f2937;
+}
+
+.project-card ul {
+    margin: .35rem 0 0 1rem;
+    padding: 0;
+}
+
+.project-card li {
+    margin-bottom: .35rem;
+}
+
+@media (max-width: 640px) {
+    .project-card {
+        grid-template-columns: 1fr;
+    }
+
+    .project-card img {
+        height: 190px;
+    }
+
+    .project-card__body {
+        padding: .95rem 1rem;
+    }
+}
