@@ -244,7 +244,7 @@ My academic interests revolve around AI4Industry, especially focus on **Industri
 
 <span class="anchor" id="honors-and-awards"></span>
 # Honors and Awards
-- NortheasternUniversity President's Medal (only 10 students selected each year)
+- Northeastern University President's Medal (only 10 students selected each year)
 - First Prize of the China Invention Association Invention and Entrepreneurship Award
 - Gold Award at the 11th International Invention Exhibition
 
