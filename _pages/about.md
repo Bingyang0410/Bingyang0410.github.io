@@ -25,28 +25,28 @@ Hello, everyone! Here is **Bingyang Guo**'s academic page. Thanks for the templa
 
 I received the doctoral degree in the Software College at the [Northeastern University](https://www.neu.edu.cn/) (Shenyang, China), advised by [Prof. Ruiyun Yu](http://faculty.neu.edu.cn/yury/). I received the bachelor's degree in the School of Mechanical Engineering at the [Shenyang Ligong University](https://www.sylu.edu.cn/), and the master's degree in the School of Mechanical Engineering and Automation at the [Northeastern University](https://www.neu.edu.cn/), advised by [Prof. Yunhui Yan](http://team.neu.edu.cn/MVR/zh_CN/more/263427/tdld/index.htm) and [Prof. Kechen Song](http://faculty.neu.edu.cn/songkechen/zh_CN/index.htm), within [Machine Vision & Robotics Lab](http://team.neu.edu.cn/MVR).
 
-My academic interests revolve around AI4Industry, especially focus on **Industrial Surface Defect Segmentation under Data-scarcity Scenarios**, including Zero/Few-shot segmentation, Wealy-supervised segmentation, 2D-3D visual fusion, and Large Vision Model. If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at - guobingyang0410@gmail.com
+My academic interests revolve around AI4Industry, especially focus on **Industrial Surface Defect Segmentation under Data-scarcity Scenarios**, including Zero/Few-shot segmentation, Weakly-supervised segmentation, 2D-3D visual fusion, and Large Vision Model. If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at - guobingyang0410@gmail.com
 
 <span class="anchor" id="news"></span>
 # News
-- *2026.05*: &nbsp;馃帀馃帀 Our paper addressed zero-shot classification in IC filed is accepted by Pattern Recognition!
-- *2026.04*: &nbsp;馃帀馃帀 Our paper addressed few-shot segmentation in IC filed is accepted by IEEE Transactions on Industrial Informatics!
-- *2026.03*: &nbsp;馃帀馃帀 I was invited to serve as a guest editor for a special issue of Electronics! We welcome contributions from experts and scholars!
-- *2026.02*: &nbsp;馃帀馃帀 Our paper addressed super resolution in industrial detection is accepted by IEEE/ASME Transactions on Mechatronics!
-- *2025.12*: &nbsp;馃帀馃帀 Our [paper](https://arxiv.org/pdf/2511.13115v2) addressed 3D-AD is accepted by Pattern Recognition!
-- *2025.11*: &nbsp;馃帀馃帀 Our paper addressed Integrated circuits package substrate 3D segmentation is accepted by AAAI 2026! The new dataset [CPS3D-Seg](https://github.com/Bingyang0410/CPS3D-Seg) proposed in the paper is the first 3D defect detection dataset of integrated circuit!
-- *2025.09*: &nbsp;馃帀馃帀 Our achievement [high precision visual inspection technology and application of ceramic package substrate](http://www.cainet.org.cn/xwzx/xhdt/art/2025/art_7c3cfa18f06f428f8c560b9dea833a25.html) won the gold award of the 11th International Invention Exhibition!
-- *2025.08*: &nbsp;馃帀馃帀 Our dataset CPS2D-AD is selected into the first batch of [high-quality dataset cases](https://mp.weixin.qq.com/s/aMUeV_bZgoxM9Vd877vW-g) of the national data administration!
-- *2025.07*: &nbsp;馃帀馃帀 Our paper addressed Integrated circuits package substrate few-shot classification is accepted by IECON 2025!
-- *2025.06*: &nbsp;馃帀馃帀 Our paper addressed [Integrated circuits package substrate anomaly detection](https://openaccess.thecvf.com/content/ICCV2025/html/Yu_Anomaly_Detection_of_Integrated_Circuits_Package_Substrates_Using_the_Large_ICCV_2025_paper.html) is accepted by ICCV 2025! The new dataset CPS2D-AD proposed in the paper is currently the largest integrated circuit defect detection dataset in the world!
-- *2025.03*: &nbsp;馃帀馃帀 Our paper addressed [Few-shot metal surface segmenation](https://ieeexplore.ieee.org/abstract/document/10898041) is accepted by IEEE TIM!
-- *2024.09*: &nbsp;馃帀馃帀 We acquire the funding from the key research and development projects of Liaoning Province (**Research and Application of Key Technologies for Multi-modal Industrial Product Surface Defect Detection Large Model**)!
-- *2024.04*: &nbsp;馃帀馃帀 Our paper addressed [Transferable recommendation]([https://ieeexplore.ieee.org/abstract/document/10018467/](https://ieeexplore.ieee.org/abstract/document/10491370/)) is accepted by IEEE TKDE (CCF A)!
-- *2024.03*: &nbsp;馃帀馃帀 Our paper addressed [Weakly-supervised metal surface segmenation](https://ieeexplore.ieee.org/abstract/document/10483094/) is accepted by IEEE TIM!
-- *2023.12*: &nbsp;馃帀馃帀 Our large vision model for industrial surface defect detection **Qing Que** obtained Huawei Ascend Technology Certification!
-- *2023.05*: &nbsp;馃帀馃帀 We acquire the funding from the Fundamental Research Funds for the Central Universities.
-- *2023.01*: &nbsp;馃帀馃帀 Our paper addressed [Real-time metal surface segmenation](https://ieeexplore.ieee.org/abstract/document/10018467/) is accepted by IEEE TII!
-- *2022.08*: &nbsp;馃帀馃帀 Our paper addressed [Few-shot metal surface segmenation](https://ieeexplore.ieee.org/abstract/document/9855496/) is accepted by IEEE TIM!
+- *2026.05*: Our paper addressed zero-shot classification in IC field is accepted by Pattern Recognition!
+- *2026.04*: Our paper addressed few-shot segmentation in IC field is accepted by IEEE Transactions on Industrial Informatics!
+- *2026.03*: I was invited to serve as a guest editor for a special issue of Electronics! We welcome contributions from experts and scholars!
+- *2026.02*: Our paper addressed super resolution in industrial detection is accepted by IEEE/ASME Transactions on Mechatronics!
+- *2025.12*: Our [paper](https://arxiv.org/pdf/2511.13115v2) addressed 3D-AD is accepted by Pattern Recognition!
+- *2025.11*: Our paper addressed Integrated circuits package substrate 3D segmentation is accepted by AAAI 2026! The new dataset [CPS3D-Seg](https://github.com/Bingyang0410/CPS3D-Seg) proposed in the paper is the first 3D defect detection dataset of integrated circuit!
+- *2025.09*: Our achievement [high precision visual inspection technology and application of ceramic package substrate](http://www.cainet.org.cn/xwzx/xhdt/art/2025/art_7c3cfa18f06f428f8c560b9dea833a25.html) won the gold award of the 11th International Invention Exhibition!
+- *2025.08*: Our dataset CPS2D-AD is selected into the first batch of [high-quality dataset cases](https://mp.weixin.qq.com/s/aMUeV_bZgoxM9Vd877vW-g) of the national data administration!
+- *2025.07*: Our paper addressed Integrated circuits package substrate few-shot classification is accepted by IECON 2025!
+- *2025.06*: Our paper addressed [Integrated circuits package substrate anomaly detection](https://openaccess.thecvf.com/content/ICCV2025/html/Yu_Anomaly_Detection_of_Integrated_Circuits_Package_Substrates_Using_the_Large_ICCV_2025_paper.html) is accepted by ICCV 2025! The new dataset CPS2D-AD proposed in the paper is currently the largest integrated circuit defect detection dataset in the world!
+- *2025.03*: Our paper addressed [Few-shot metal surface segmentation](https://ieeexplore.ieee.org/abstract/document/10898041) is accepted by IEEE TIM!
+- *2024.09*: We acquire the funding from the key research and development projects of Liaoning Province (**Research and Application of Key Technologies for Multi-modal Industrial Product Surface Defect Detection Large Model**)!
+- *2024.04*: Our paper addressed [Transferable recommendation](https://ieeexplore.ieee.org/abstract/document/10491370/) is accepted by IEEE TKDE (CCF A)!
+- *2024.03*: Our paper addressed [Weakly-supervised metal surface segmentation](https://ieeexplore.ieee.org/abstract/document/10483094/) is accepted by IEEE TIM!
+- *2023.12*: Our large vision model for industrial surface defect detection **Qing Que** obtained Huawei Ascend Technology Certification!
+- *2023.05*: We acquire the funding from the Fundamental Research Funds for the Central Universities.
+- *2023.01*: Our paper addressed [Real-time metal surface segmentation](https://ieeexplore.ieee.org/abstract/document/10018467/) is accepted by IEEE TII!
+- *2022.08*: Our paper addressed [Few-shot metal surface segmentation](https://ieeexplore.ieee.org/abstract/document/9855496/) is accepted by IEEE TIM!
 
 # Educations
 - *2021.09 - 2026.06*, Northeastern University, Software College, ***Ph.D*** in Software Engineering
