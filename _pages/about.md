@@ -63,17 +63,20 @@ My academic interests revolve around AI4Industry, especially focus on **Industri
   <article class="publication-item" id="U-Pub5">
     <h3>EDNet: Zero-shot Classification for Ceramic Package Substrates Surface Defect with Embedding Diffusion Network</h3>
     <p class="pub-authors"><span class="author-highlight">Bingyang Guo</span><span class="author-mark">#</span>, Yuting Wang<span class="author-mark">#</span>, Ruiyun Yu*</p>
-    <p class="pub-venue">Pattern Recognition <strong>(PR)</strong>, 2025.</p>
+    <p class="pub-venue">Pattern Recognition <strong>(PR)</strong>, 2026.</p>
+    <p class="pub-links"><a class="pub-badge" href="https://doi.org/10.1016/j.patcog.2026.113811">Paper</a></p>
   </article>
   <article class="publication-item" id="U-Pub10">
     <h3>Hybrid-space Interaction Network for Effective Single-Image Super-Resolution in Defect Detection</h3>
     <p class="pub-authors">Haoyuan Li, Ruiyun Yu*, <span class="author-highlight">Bingyang Guo</span>, Bang An, Shi Zhen</p>
-    <p class="pub-venue">IEEE/ASME Transactions on Mechatronics <strong>(T-Mech)</strong>, 2025.</p>
+    <p class="pub-venue">IEEE/ASME Transactions on Mechatronics <strong>(T-Mech)</strong>, 2026.</p>
+    <p class="pub-links"><a class="pub-badge" href="https://doi.org/10.1109/TMECH.2026.3667305">Paper</a></p>
   </article>
   <article class="publication-item" id="U-Pub9">
     <h3>Dynamic Cross Characterization Network for Few-Shot IC Package Substrates Surface Defect Segmentation</h3>
     <p class="pub-authors">Ruiyun Yu, Haoyuan Li*, <span class="author-highlight">Bingyang Guo</span></p>
-    <p class="pub-venue">IEEE Transactions on Industrial Informatics <strong>(TII)</strong>, 2025.</p>
+    <p class="pub-venue">IEEE Transactions on Industrial Informatics <strong>(TII)</strong>, 2026.</p>
+    <p class="pub-links"><a class="pub-badge" href="https://doi.org/10.1109/TII.2026.3683147">Paper</a></p>
   </article>
   <article class="publication-item" id="J-Pub8-3D">
     <h3>A Lightweight 3D Anomaly Detection Method with Rotationally Invariant Features</h3>
@@ -131,13 +134,13 @@ My academic interests revolve around AI4Industry, especially focus on **Industri
     <h3>Point Cloud Segmentation of Integrated Circuits Package Substrates Surface Defects Using Causal Inference: Dataset Construction and Methodology</h3>
     <p class="pub-authors"><span class="author-highlight">Bingyang Guo</span>, Hongjie Li, Ruiyun Yu*</p>
     <p class="pub-venue">The 40th Annual AAAI Conference on Artificial Intelligence <strong>(AAAI)</strong>, 2026.</p>
-    <p class="pub-links"><span class="pub-badge pub-badge--muted">Coming soon</span></p>
+    <p class="pub-links"><a class="pub-badge" href="https://doi.org/10.1609/aaai.v40i6.42436">Paper</a><a class="pub-badge" href="https://arxiv.org/abs/2511.05853">arXiv</a></p>
   </article>
   <article class="publication-item" id="C-Pub3">
     <h3>Fine-Grained Region Perception Network for Few-shot Defect Classification of IC Package Substrates: Benchmark Methodology and Dataset</h3>
     <p class="pub-authors">Haoyuan Li, Ruiyun Yu*, <span class="author-highlight">Bingyang Guo</span></p>
     <p class="pub-venue">The Annual Conference of the IEEE Industrial Electronics Society <strong>(IECON)</strong>, 2025.</p>
-    <p class="pub-links"><span class="pub-badge pub-badge--muted">Coming soon</span></p>
+    <p class="pub-links"><a class="pub-badge" href="https://doi.org/10.1109/IECON58223.2025.11221765">Paper</a></p>
   </article>
   <article class="publication-item" id="C-Pub2">
     <h3>Anomaly Detection of Integrated Circuits Package Substrates Using the Large Vision Model SAIC: Dataset Construction, Methodology, and Application</h3>
@@ -164,6 +167,7 @@ My academic interests revolve around AI4Industry, especially focus on **Industri
     <h3>IEC3D-AD: A 3D Dataset of Industrial Equipment Components for Unsupervised Point Cloud Anomaly Detection</h3>
     <p class="pub-authors"><span class="author-highlight">Bingyang Guo</span>, Hongjie Li, Ruiyun Yu*</p>
     <p class="pub-venue">IEEE Transactions on Circuits and Systems for Video Technology <strong>(TCSVT)</strong>, major revision.</p>
+    <p class="pub-links"><a class="pub-badge" href="https://arxiv.org/abs/2511.03267">arXiv</a></p>
   </article>
   <article class="publication-item" id="U-Pub1">
     <h3>When Large Models Meet Integrated Circuit: A Unified Multimodal Framework for Semantic and Spatial Understanding on Ceramic Package Substrate Surface Defects</h3>
