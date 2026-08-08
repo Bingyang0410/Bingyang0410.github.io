@@ -29,6 +29,8 @@ My academic interests revolve around AI4Industry, especially focus on **Industri
 
 <span class="anchor" id="news"></span>
 # News
+- *2026.08*: Our paper addressed 3D-AD in industrial equipment components is accepted by IEEE TCSVT!
+- *2026.06*: Our paper addressed cross-modal detection in IC field is accepted by IECON 2026!
 - *2026.05*: Our paper addressed zero-shot classification in IC field is accepted by Pattern Recognition!
 - *2026.04*: Our paper addressed few-shot segmentation in IC field is accepted by IEEE Transactions on Industrial Informatics!
 - *2026.03*: I was invited to serve as a guest editor for a special issue of Electronics! We welcome contributions from experts and scholars!
@@ -60,7 +62,18 @@ My academic interests revolve around AI4Industry, especially focus on **Industri
 
 <h2 class="pub-section-heading" id="journal-publications">Journal Publications</h2>
 <div class="publication-list">
-  <article class="publication-item" id="U-Pub5">
+  <article class="publication-item" id="U-Pub13">
+    <h3>IEC3D-AD: A 3D Dataset of Industrial Equipment Components for Unsupervised Point Cloud Anomaly Detection</h3>
+    <p class="pub-authors"><span class="author-highlight">Bingyang Guo</span>, Hongjie Li, Ruiyun Yu*, Hanzhe Liang, Jinbao Wang </p>
+    <p class="pub-venue">IEEE Transactions on Circuits and Systems for Video Technology <strong>(TCSVT)</strong>, 2026.</p>
+    <p class="pub-links"><a class="pub-badge" href="https://arxiv.org/abs/2511.03267">arXiv</a></p>
+  </article>
+  <article class="publication-item" id="U-Pub12">
+    <h3>A Unified Multimodal Framework Towards Semantic and Spatial Understanding on Packaging Surface Defects</h3>
+    <p class="pub-authors"><span class="author-highlight">Bingyang Guo</span>, Abdulhamid Victor Ibrahim, Ruiyun Yu*</p>
+    <p class="pub-venue">IECON <strong>(PR)</strong>, 2026.</p>
+  </article>
+  <article class="publication-item" id="U-Pub11">
     <h3>EDNet: Zero-shot Classification for Ceramic Package Substrates Surface Defect with Embedding Diffusion Network</h3>
     <p class="pub-authors"><span class="author-highlight">Bingyang Guo</span><span class="author-mark">#</span>, Yuting Wang<span class="author-mark">#</span>, Ruiyun Yu*</p>
     <p class="pub-venue">Pattern Recognition <strong>(PR)</strong>, 2026.</p>
@@ -162,17 +175,6 @@ My academic interests revolve around AI4Industry, especially focus on **Industri
     <h3>3D Anomaly Detection: Approaches, Benchmark, Challenges, and Prospects for Intelligent Manufacturing</h3>
     <p class="pub-authors">Hanzhe Liang<span class="author-mark">#</span>, <span class="author-highlight">Bingyang Guo</span><span class="author-mark">#</span>, Can Gao<span class="author-mark">#</span>, Jiayi Lyu, Yunkang Cao, Guoyang Xie, Jinbao Wang, Ruiyun Yu, Linlin Shen, Pan Li, Weiming Shen</p>
     <p class="pub-venue">Journal of Intelligent Manufacturing <strong>(JIMS)</strong>, under review.</p>
-  </article>
-  <article class="publication-item" id="U-Pub2">
-    <h3>IEC3D-AD: A 3D Dataset of Industrial Equipment Components for Unsupervised Point Cloud Anomaly Detection</h3>
-    <p class="pub-authors"><span class="author-highlight">Bingyang Guo</span>, Hongjie Li, Ruiyun Yu*</p>
-    <p class="pub-venue">IEEE Transactions on Circuits and Systems for Video Technology <strong>(TCSVT)</strong>, major revision.</p>
-    <p class="pub-links"><a class="pub-badge" href="https://arxiv.org/abs/2511.03267">arXiv</a></p>
-  </article>
-  <article class="publication-item" id="U-Pub1">
-    <h3>When Large Models Meet Integrated Circuit: A Unified Multimodal Framework for Semantic and Spatial Understanding on Ceramic Package Substrate Surface Defects</h3>
-    <p class="pub-authors"><span class="author-highlight">Bingyang Guo</span>, Ruiyun Yu*, Haoyuan Li, Bang An</p>
-    <p class="pub-venue">Pattern Recognition <strong>(PR)</strong>, under review.</p>
   </article>
 </div>
 
