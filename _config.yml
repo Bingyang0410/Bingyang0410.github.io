@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Bingyang Guo"
   avatar           : "images/Bingyang Guo.jpg"
-  bio              : "Northeastern University"
-  location         : "Shenyang, China"
+  bio              : "Institute of AI for Industries, Chinese Academy of Sciences"
+  location         : "Nanjing, China"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=cKwKDe8AAAAJ&hl=zh-CN"

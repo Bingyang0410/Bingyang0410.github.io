@@ -23,7 +23,7 @@ Hello, everyone! Here is **Bingyang Guo**'s academic page. Thanks for the templa
 
 # Biography
 
-I received the doctoral degree in the Software College at the [Northeastern University](https://www.neu.edu.cn/) (Shenyang, China), advised by [Prof. Ruiyun Yu](http://faculty.neu.edu.cn/yury/). I received the bachelor's degree in the School of Mechanical Engineering at the [Shenyang Ligong University](https://www.sylu.edu.cn/), and the master's degree in the School of Mechanical Engineering and Automation at the [Northeastern University](https://www.neu.edu.cn/), advised by [Prof. Yunhui Yan](http://team.neu.edu.cn/MVR/zh_CN/more/263427/tdld/index.htm) and [Prof. Kechen Song](http://faculty.neu.edu.cn/songkechen/zh_CN/index.htm), within [Machine Vision & Robotics Lab](http://team.neu.edu.cn/MVR).
+I am assistant to special research at the Institute of AI for Industries, Chinese Academy of Sciences. I received the doctoral degree in the Software College at the [Northeastern University](https://www.neu.edu.cn/) (Shenyang, China), advised by [Prof. Ruiyun Yu](http://faculty.neu.edu.cn/yury/). I received the bachelor's degree in the School of Mechanical Engineering at the [Shenyang Ligong University](https://www.sylu.edu.cn/), and the master's degree in the School of Mechanical Engineering and Automation at the [Northeastern University](https://www.neu.edu.cn/), advised by [Prof. Yunhui Yan](http://team.neu.edu.cn/MVR/zh_CN/more/263427/tdld/index.htm) and [Prof. Kechen Song](http://faculty.neu.edu.cn/songkechen/zh_CN/index.htm), within [Machine Vision & Robotics Lab](http://team.neu.edu.cn/MVR).
 
 My academic interests revolve around AI4Industry, especially focus on **Industrial Surface Defect Segmentation under Data-scarcity Scenarios**, including Zero/Few-shot segmentation, Weakly-supervised segmentation, 2D-3D visual fusion, and Large Vision Model. If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at - guobingyang0410@gmail.com
 
@@ -62,16 +62,11 @@ My academic interests revolve around AI4Industry, especially focus on **Industri
 
 <h2 class="pub-section-heading" id="journal-publications">Journal Publications</h2>
 <div class="publication-list">
-  <article class="publication-item" id="U-Pub13">
+  <article class="publication-item" id="U-Pub12">
     <h3>IEC3D-AD: A 3D Dataset of Industrial Equipment Components for Unsupervised Point Cloud Anomaly Detection</h3>
     <p class="pub-authors"><span class="author-highlight">Bingyang Guo</span>, Hongjie Li, Ruiyun Yu*, Hanzhe Liang, Jinbao Wang </p>
     <p class="pub-venue">IEEE Transactions on Circuits and Systems for Video Technology <strong>(TCSVT)</strong>, 2026.</p>
     <p class="pub-links"><a class="pub-badge" href="https://arxiv.org/abs/2511.03267">arXiv</a></p>
-  </article>
-  <article class="publication-item" id="U-Pub12">
-    <h3>A Unified Multimodal Framework Towards Semantic and Spatial Understanding on Packaging Surface Defects</h3>
-    <p class="pub-authors"><span class="author-highlight">Bingyang Guo</span>, Abdulhamid Victor Ibrahim, Ruiyun Yu*</p>
-    <p class="pub-venue">IECON <strong>(PR)</strong>, 2026.</p>
   </article>
   <article class="publication-item" id="U-Pub11">
     <h3>EDNet: Zero-shot Classification for Ceramic Package Substrates Surface Defect with Embedding Diffusion Network</h3>
@@ -143,6 +138,11 @@ My academic interests revolve around AI4Industry, especially focus on **Industri
 
 <h2 class="pub-section-heading" id="conference-publications">Conference Publications</h2>
 <div class="publication-list">
+  <article class="publication-item" id="C-Pub5">
+    <h3>A Unified Multimodal Framework Towards Semantic and Spatial Understanding on Packaging Surface Defects</h3>
+    <p class="pub-authors"><span class="author-highlight">Bingyang Guo</span>, Abdulhamid Victor Ibrahim, Ruiyun Yu*</p>
+    <p class="pub-venue">IECON <strong>(PR)</strong>, 2026.</p>
+  </article>
   <article class="publication-item" id="C-Pub4">
     <h3>Point Cloud Segmentation of Integrated Circuits Package Substrates Surface Defects Using Causal Inference: Dataset Construction and Methodology</h3>
     <p class="pub-authors"><span class="author-highlight">Bingyang Guo</span>, Hongjie Li, Ruiyun Yu*</p>
